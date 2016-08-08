@@ -12,10 +12,14 @@ int insertionSort(std::vector<int> A){
 	for (int i = 0; i < A.size(); ++i)
 	{
 		/* code */
-		int j=i;
-		while(j>0&&A[j]>A[i])
-			A[j]=A[j-1];
-		A[j]=A[i];
+		int j=i-1;
+		int tmp=A[i];
+		while(j>=0&&A[j]>tmp){
+			A[j+1]=A[j];
+			j--;
+		}
+		A[j+1]=tmp;
+		//print(A);
 	}
 	print(A);
 }
