@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
@@ -74,6 +75,8 @@ int main(){
     int sol=findK(A,row,col,k);
     //cout << sol << endl;
 =======
+=======
+>>>>>>> 5d151628b32a2ef5b633f055e6961a6c0d18654b
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
@@ -148,5 +151,8 @@ int main(){
     cin >> k;
     int sol=findK(A,row,col,k);
     //cout << sol << endl;
+<<<<<<< HEAD
+>>>>>>> 5d151628b32a2ef5b633f055e6961a6c0d18654b
+=======
 >>>>>>> 5d151628b32a2ef5b633f055e6961a6c0d18654b
 }

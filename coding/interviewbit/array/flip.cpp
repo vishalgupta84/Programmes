@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
@@ -40,6 +41,8 @@ int main(){
 	cout << v[0] << " " << v[1] << endl;
 	return 0;
 =======
+=======
+>>>>>>> 5d151628b32a2ef5b633f055e6961a6c0d18654b
 #include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
@@ -80,5 +83,8 @@ int main(){
 	std::vector<int> v=flip(A);
 	cout << v[0] << " " << v[1] << endl;
 	return 0;
+<<<<<<< HEAD
+>>>>>>> 5d151628b32a2ef5b633f055e6961a6c0d18654b
+=======
 >>>>>>> 5d151628b32a2ef5b633f055e6961a6c0d18654b
 }
