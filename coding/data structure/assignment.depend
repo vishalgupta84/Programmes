@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1460120530 source:/home/vsl/VSL/programme/coding/assignment/string.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+
