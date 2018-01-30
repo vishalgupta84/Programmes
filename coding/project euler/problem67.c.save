@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 #include <stdio.h>
  main(){
      int a,b,c;
@@ -13,3 +15,25 @@
         putchar ( ++c=='Z' ? c = c/ 9:33^b&1);
     return 0;
 }
+=======
+=======
+>>>>>>> 5d151628b32a2ef5b633f055e6961a6c0d18654b
+#include <stdio.h>
+ main(){
+     int a,b,c;
+     int count = 1;
+     for (b = c = 10; a = "- FIGURE?, UMKC,XYZHello Folks,\
+            TFy!QJu ROo TNn(ROo)SLq SLq ULo+\
+            UHs UJq TNn*RPn/QPbEWS_JSWQAIJO^\
+            NBELPeHBFHT}TnALVlBLOFAkHFOuFETp\
+            HCStHAUFAgcEAelclcn^r^r\\tZvYxXy\
+            T|S~Pn SPm SOn TNn ULo0ULo#ULo-W\
+            Hq!WFs XDt!"[b+++21]; )
+    for(; a-- >64 ; )
+        putchar ( ++c=='Z' ? c = c/ 9:33^b&1);
+    return 0;
+}
+<<<<<<< HEAD
+>>>>>>> 5d151628b32a2ef5b633f055e6961a6c0d18654b
+=======
+>>>>>>> 5d151628b32a2ef5b633f055e6961a6c0d18654b
